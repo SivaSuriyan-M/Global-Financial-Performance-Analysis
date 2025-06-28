@@ -7,7 +7,9 @@
 ### 👤 Role:
 
 **Associate Data Analyst Trainee**
+
 **Organization:** Infochola Solutions
+
 **Tool Used:** Power BI Desktop, Power BI Service
 
 ---
